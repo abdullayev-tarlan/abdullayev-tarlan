@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=amanmadov" />
-  <a href="https://github.com/amanmadov"><img src="https://img.shields.io/github/followers/amanmadov?label=Follow&logo=github&style=flat" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdullayev-tarlan" />
+  <a href="https://github.com/abdullayev-tarlan"><img src="https://img.shields.io/github/followers/abdullayev-tarlan?label=Follow&logo=github&style=flat" /></a>
 </div>
 
  <br/>
