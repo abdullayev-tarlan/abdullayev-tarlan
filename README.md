@@ -1,4 +1,15 @@
-class Nury {
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amanmadov" />
+  <a href="https://github.com/amanmadov"><img src="https://img.shields.io/github/followers/amanmadov?label=Follow&logo=github&style=flat" /></a>
+</div>
+
+ <br/>
+ 
+ <h3> Hi there, I'm tarlan 👋 </h3>
+
+
+```js
+class Tarlan {
 	constructor() {
 		this.name = 'Tarlan Abdullayev';
 		this.position = 'Software Developer';
@@ -15,3 +26,4 @@ class Nury {
 
 	getEmail = () => `${this.netId}@northeastern.edu`
 }
+```
