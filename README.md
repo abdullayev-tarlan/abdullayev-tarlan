@@ -5,7 +5,7 @@
 
  <br/>
  
- <h3> Hi there, I'm tarlan 👋 </h3>
+ <h3> Hi there, I'm Tarlan 👋 </h3>
 
 
 ```js
@@ -14,16 +14,16 @@ class Tarlan {
 		this.name = 'Tarlan Abdullayev';
 		this.position = 'Software Developer';
 		this.resume = 'linkedin.com/in/abdullayev-tarlan';
-		this.netId = 'abdullayev.tarlan';
+		this.username = 'abdullayev.tarlan';
 		this.techStack = {
-			backend: ['C#', 'Node', 'Express', 'Python', 'Django'],
-			database: ['SQL Server', 'PostgreSQL', 'MongoDB'],
+			backend: ['Node', 'Express'],
+			database: ['PostgreSQL', 'MongoDB'],
 			frontend: ['HTML', 'CSS', 'Boostrap', 'JavaScript', 'React', 'jQuery'],
-			tools: ['Git', 'GitHub', 'Docker', 'UiPath Studio', 'Adobe Xd'],
-			salesforce: ['Sales Cloud', 'Service Cloud', 'Apex', 'Visualforce', 'SOQL', 'SOSL']
+			tools: ['Git', 'GitHub', VS Code],
+			salesforce: ['Sales Cloud', 'Service Cloud', 'Marketing Cloud', 'Apex', 'Visualforce', 'SOQL', 'SOSL']
 		};
 	}
 
-	getEmail = () => `${this.netId}@northeastern.edu`
+	getEmail = () => `${this.username}@northeastern.edu`
 }
 ```
